@@ -1,0 +1,5 @@
+- [x] Modified app.py to set HF_HOME to ../hf_cache (relative to therapy_chat_app)
+- [x] Created virtual environment in therapy_chat_app/venv
+- [x] Installed requirements (torch, transformers, peft, gradio) into venv
+- [x] Test running the app to ensure models download to D drive
+- [x] Launch Gradio interface and verify functionality
